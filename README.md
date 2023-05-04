@@ -4,7 +4,7 @@
 
 ## Description
 
-Project aims to create a Movie App.
+Project aims to create a Movie App with Movie API and Firebase.
 
 ## Project Skeleton
 
@@ -41,9 +41,6 @@ SOLUTION
 
 ![Project Snapshot](movieapp.gif)
 
-## Expected Outcome
-
-![Project Snapshot](movieapp.gif)
 
 ## Objective
 
